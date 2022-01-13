@@ -1,4 +1,7 @@
-# vue2-chat
+# Voice Chat on Vue!
+```
+My first project on Vue. Will continue experimenting from here on out! :)
+```
 
 ## Project setup
 ```
